@@ -1,4 +1,4 @@
-<h1 align="center">Jogo de Adivinhação</h1>
+<h1 align="center">🪄 Jogo de Adivinhação 🪄</h1>
 
 <p align="center">
 Segundo projeto realizado através da Imersão Dev Alura.
@@ -26,4 +26,4 @@ Me diverti muito fazendo esse projeto. Aprendi a ensinar o computador a pensar, 
 
 ---
 
-Feito com :heart: por mim
+Feito com amor por 🧝🏻‍♀️
